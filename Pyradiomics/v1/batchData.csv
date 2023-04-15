@@ -1,0 +1,3 @@
+ID,Image,Mask
+B01,../BEP/data/B01/IMAGES/B01.nii.gz,../BEP/data/B01/MASKS/B01.nii.gz
+B04,../BEP/data/B04/IMAGES/B04.nii.gz,../BEP/data/B04/MASKS/B04.nii.gz
